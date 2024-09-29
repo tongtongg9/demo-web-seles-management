@@ -9,7 +9,7 @@ This project is a web-based sales management application. It uses modern web tec
 1. Clone the repository:
 
     ```sh
-    git clone <repository-url>
+    git clone https://github.com/tongtongg9/demo-web-seles-management.git
     cd web-seles-management
     ```
 
